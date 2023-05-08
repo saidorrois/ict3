@@ -1,6 +1,6 @@
 # Base configs
-#baseurl: "https://photography.rampatra.com"
-baseurl: "" # Comment the above line and uncomment this to test the website locally
+baseurl: "https://saidorrois.github.io/ictportf/"
+#baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
@@ -11,10 +11,12 @@ subtitle: "School Year 2022-2023"
 author: "saio"
 header:
  title: "ICT3 11-2"
- subtitle: "by gfx team"
+ subtitle: "by company 🤓"
 footer:
  name: "Made with ❤️"
- bio: "Bungay / Chiu / Lagura / Reyes / Sevillas"
+ bio: "for ICT3 11-2 SY. '22 '23 Yearbook
+Computer Programming 🤝 Computer Animation
+ Bungay / Chiu / Lagura / Reyes / Sevillas"
  github: ""
 web_design: "AJ"
 # Configure which exif data to display
