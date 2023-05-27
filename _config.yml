@@ -1,30 +1,31 @@
 # Base configs
-baseurl: "https://saidorrois.github.io/ictportf/"
+baseurl: "https://saidorrois.github.io/ict3/"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "ICT3 11-2"
+title: "Digital Yearbook"
 subtitle: "School Year 2022-2023"
 author: "saio"
 header:
  title: "ICT3 11-2 Yearbook"
- subtitle: "by bungay and company 🤓"
+ subtitle: "by company 🤓"
 footer:
  name: "Made with ❤️"
  bio: "for ICT3 11-2 SY. '22 '23 Yearbook
 Computer Programming 🤝 Computer Animation
- Bungay / Chiu / Lagura / Reyes / Sevillas"
- github: ""
+ Bungay / Chiu / Lagura / Reyes / Sevillas
+ Sir Santos"
+ github: "Forked from <a href=\"https://github.com/ramswaroop/photography\">"
 web_design: "AJ"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
-  twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  twitter: ""
+  instagram: ""
+  dribbble: ""
+  linkedin: ""
+  github: ""
