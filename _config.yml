@@ -13,12 +13,9 @@ header:
  title: "ICT3 11-2 Yearbook"
  subtitle: "by company 🤓"
 footer:
- name: "Made with ❤️"
- bio: "for ICT3 11-2 SY. '22 '23 Yearbook
-Computer Programming 🤝 Computer Animation
- Bungay / Chiu / Lagura / Reyes / Sevillas
- Sir Santos"
- github: "Forked from <a href=\"https://github.com/ramswaroop/photography\">"
+ name: "Made with ❤️ by"
+ bio: "Bungay / Chiu / Lagura / Reyes / Sevillas"
+ github: "Digital Yearbook Project for ICT3 11-2 | Sir Santos / Sir Pakit"
 web_design: "AJ"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
